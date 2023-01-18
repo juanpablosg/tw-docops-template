@@ -29,3 +29,5 @@ Add new pages to your site doing the following:
 3. Add the title of the page and the name of the _.md_ file you created under **nav:**.
 
 To learn more about MkDocs, see the [User Guide](https://www.mkdocs.org/user-guide/) for more complete documentation of all of MkDocs' features.
+
+Wizeline
