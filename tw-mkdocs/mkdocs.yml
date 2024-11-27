@@ -1,7 +1,8 @@
-site_name: Wizeline MkDocs Template
+site_name: Juan Pablo MkDocs Template
 nav:
   - Home: index.md
   - About: about.md
+  - How to Make a Ham and Cheese Sandwich: sandwich.md
 
 theme:
   name: material
